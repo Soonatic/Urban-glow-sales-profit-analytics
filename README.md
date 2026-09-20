@@ -58,7 +58,7 @@ The raw dataset contains several data-quality issues, including inconsistent tex
 
 ### Raw Dataset
 
-![UrbanGlow Raw Dataset](images/raw-data.png)
+![image alt](https://github.com/Soonatic/Urban-glow-sales-profit-analytics/blob/8756bfbf4dcb80c8fc904394e76df96f1e9290d1/Screenshot%202026-09-19%20170744.png)
 
 ---
 

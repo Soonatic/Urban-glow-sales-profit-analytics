@@ -183,7 +183,7 @@ The reporting period contains a partial September period, so the September resul
 
 ### Dashboard Insights & Recommendations
 
-![UrbanGlow Dashboard Insights](images/dashboard-insights.png)
+![image alt](https://github.com/Soonatic/Urban-glow-sales-profit-analytics/blob/98d87e94fc6e74e1174962c84e52807f5f180fac/Screenshot%202026-09-20%20111746.png)
 
 ---
 
